@@ -1,0 +1,6 @@
+{
+    "sonarlint.connectedMode.project": {
+        "connectionId": "jaysbui",
+        "projectKey": "JaysBui_Text_Image_Retrieval"
+    }
+}
